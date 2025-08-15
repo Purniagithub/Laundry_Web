@@ -8,6 +8,7 @@ import {
 import { doc, getDoc } from "firebase/firestore";
 import { auth, db } from "../components/firebase/firebase"; // Adjust path if needed
 
+
 const AuthContext = createContext();
 
 export const AuthProvider = ({ children }) => {
