@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { FaClock, FaTruck, FaHeadset } from "react-icons/fa";
 import { useAuth } from "../../Authcontext/AuthContext";
-import FAQSection from "../faqs/FAQSection";
+import FAQSection from "../Faqs/FAQSection";
 import HomeCleaningBookingForm from "../Booknow/HomeCleaningBookingForm";
 import VehicleCleaningBookingForm from "../Booknow/VehicleCleaningBookingForm";
 
