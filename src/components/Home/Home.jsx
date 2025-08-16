@@ -167,8 +167,6 @@ export default function Home() {
           ))}
         </div>
       </div> */}
-
-
 <div className="max-w-7xl mx-auto mt-10 px-4 py-20 bg-gradient-to-br from-orange-50 to-white rounded-xl">
   <h2 className="text-4xl font-extrabold text-center text-blue-900 mb-4">
     Our Services

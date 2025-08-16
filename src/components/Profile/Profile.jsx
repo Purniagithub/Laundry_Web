@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { useAuth } from "../../AuthContext/AuthContext";
+import { useAuth } from "../../Authcontext/AuthContext";
 
 export default function Profile() {
   const { userData, isLoggedIn } = useAuth();
